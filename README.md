@@ -25,7 +25,7 @@ To save output to a file execute following command.
  
  Output Screenshot 2
  
- 
-![Output2](https://user-images.githubusercontent.com/86361080/233912570-6fab0f09-e783-4e7f-b855-f335517f44af.png)
+ ![Output2](https://user-images.githubusercontent.com/86361080/233913580-ee51414e-3035-4c7a-96d7-8e21ceeb927d.png)
+
 
 --------------------
