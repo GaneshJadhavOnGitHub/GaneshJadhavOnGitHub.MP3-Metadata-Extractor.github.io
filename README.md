@@ -1,5 +1,5 @@
 # MP3-Metadata-Extractor
-A small program to print Metadata of MP3 file.
+A small program to print Metadata of MP3 file using Rust programming language.
 
 For system requirements please refer file 'Application_Requirements.txt'.
 
