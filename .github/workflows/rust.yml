@@ -23,6 +23,6 @@ jobs:
     - name: go to project
       run: cd mp3_metadata_extractor
     - name: Build
-      run: cargo build --manifest-path /home/runner/work/MP3-Metadata-Extractor/MP3-Metadata-Extractor/mp3_metadata_extractor --verbose
+      run: cargo build --manifest-path /home/runner/work/MP3-Metadata-Extractor/MP3-Metadata-Extractor/mp3_metadata_extractor/Cargo.toml --verbose
     - name: Run tests
       run: cargo test --verbose
